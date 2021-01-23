@@ -1,0 +1,582 @@
+[
+    {
+        "pattern": "round the corner",
+        "target": "https://ejje.weblio.jp/content/just+around+the+corner"
+    },
+    {
+        "pattern": "around the corner",
+        "target": "https://ejje.weblio.jp/content/just+around+the+corner"
+    },
+    {
+        "pattern": "just round the corner",
+        "target": "https://ejje.weblio.jp/content/just+around+the+corner"
+    },
+    {
+        "pattern": "just around the corner",
+        "target": "https://ejje.weblio.jp/content/just+around+the+corner"
+    },
+    {
+        "pattern": "be crowded with",
+        "target": "https://ejje.weblio.jp/content/be+crowded+with"
+    },
+    {
+        "pattern": "take a day off",
+        "target": "https://ejje.weblio.jp/content/take+a+day+off"
+    },
+    {
+        "pattern": "at work",
+        "target": "https://ejje.weblio.jp/content/at+work"
+    },
+    {
+        "pattern": "dress oneself",
+        "target": "https://ejje.weblio.jp/content/dress+oneself"
+    },
+    {
+        "pattern": "for instance",
+        "target": "https://ejje.weblio.jp/content/for+instance"
+    },
+    {
+        "pattern": "put on",
+        "target": "https://ejje.weblio.jp/content/put+on"
+    },
+    {
+        "pattern": "instead of",
+        "target": "https://ejje.weblio.jp/content/instead+of"
+    },
+    {
+        "pattern": "be popular with",
+        "target": "https://ejje.weblio.jp/content/be+popular+with"
+    },
+    {
+        "pattern": "be popular among",
+        "target": "https://ejje.weblio.jp/content/be+popular+with"
+    },
+    {
+        "pattern": "be dressed in",
+        "target": "https://ejje.weblio.jp/content/be+dressed+in"
+    },
+    {
+        "pattern": "on time",
+        "target": "https://ejje.weblio.jp/content/on+time"
+    },
+    {
+        "pattern": "on earth",
+        "target": "https://ejje.weblio.jp/content/on+earth"
+    },
+    {
+        "pattern": "take care of",
+        "target": "https://ejje.weblio.jp/content/take+care+of"
+    },
+    {
+        "pattern": "quite a few",
+        "target": "https://ejje.weblio.jp/content/quite+a+few"
+    },
+    {
+        "pattern": "can afford to",
+        "target": "https://ejje.weblio.jp/content/can+afford+to"
+    },
+    {
+        "pattern": "be strict with",
+        "target": "https://ejje.weblio.jp/content/be+strict+with"
+    },
+    {
+        "pattern": "insist on",
+        "target": "https://ejje.weblio.jp/content/insist+on"
+    },
+    {
+        "pattern": "behave oneself",
+        "target": "https://ejje.weblio.jp/content/behave+oneself"
+    },
+    {
+        "pattern": "at all times",
+        "target": "https://ejje.weblio.jp/content/at+all+times"
+    },
+    {
+        "pattern": "these days",
+        "target": "https://ejje.weblio.jp/content/these+days"
+    },
+    {
+        "pattern": "appeal to",
+        "target": "https://ejje.weblio.jp/content/appeal+to"
+    },
+    {
+        "pattern": "spend {N} on {N}",
+        "target": "https://ejje.weblio.jp/content/spend+A+on+B"
+    },
+    {
+        "pattern": "spend {N} for {N}",
+        "target": "https://ejje.weblio.jp/content/spend+A+on+B"
+    },
+    {
+        "pattern": "spend {N} {VVG}",
+        "target": "https://ejje.weblio.jp/content/spend"
+    },
+    {
+        "pattern": "spend {N} in {VVG}",
+        "target": "https://ejje.weblio.jp/content/spend"
+    },
+    {
+        "pattern": "be forced to",
+        "target": "https://ejje.weblio.jp/content/be+forced+to"
+    },
+    {
+        "pattern": "move to",
+        "target": "https://ejje.weblio.jp/content/move+to"
+    },
+    {
+        "pattern": "take aback",
+        "target": "https://ejje.weblio.jp/content/take+aback"
+    },
+    {
+        "pattern": "be fond of",
+        "target": "https://ejje.weblio.jp/content/be+fond+of"
+    },
+    {
+        "pattern": "hold up",
+        "target": "https://ejje.weblio.jp/content/hold+up"
+    },
+    {
+        "pattern": "prefer {N} to {N}",
+        "target": "https://ejje.weblio.jp/content/prefer+A+to+B"
+    },
+    {
+        "pattern": "be satisfied with",
+        "target": "https://ejje.weblio.jp/content/be+satisfied+with"
+    },
+    {
+        "pattern": "at any time",
+        "target": "https://ejje.weblio.jp/content/at+any+time"
+    },
+    {
+        "pattern": "at the mercy of",
+        "target": "https://ejje.weblio.jp/content/at+the+mercy+of"
+    },
+    {
+        "pattern": "get into",
+        "target": "https://ejje.weblio.jp/content/get+into"
+    },
+    {
+        "pattern": "supply {N} with {N}",
+        "target": "https://ejje.weblio.jp/content/supply+A+with+B"
+    },
+    {
+        "pattern": "supply {N} to {N}",
+        "target": "https://ejje.weblio.jp/content/supply+A+with+B"
+    },
+    {
+        "pattern": "shake hands",
+        "target": "https://ejje.weblio.jp/content/shake+hands"
+    },
+    {
+        "pattern": "shake hands with",
+        "target": "https://ejje.weblio.jp/content/shake+hands"
+    },
+    {
+        "pattern": "originate in",
+        "target": "https://ejje.weblio.jp/content/originate+in"
+    },
+    {
+        "pattern": "originate from",
+        "target": "https://ejje.weblio.jp/content/originate+in"
+    },
+    {
+        "pattern": "come across",
+        "target": "https://ejje.weblio.jp/content/come+across"
+    },
+    {
+        "pattern": "come upon",
+        "target": "https://ejje.weblio.jp/content/come+across"
+    },
+    {
+        "pattern": "reach for",
+        "target": "https://ejje.weblio.jp/content/reach+for"
+    },
+    {
+        "pattern": "out of fear",
+        "target": "https://ejje.weblio.jp/content/out+of+fear"
+    },
+    {
+        "pattern": "in spite of oneself",
+        "target": "https://ejje.weblio.jp/content/in+spite+of+oneself"
+    },
+    {
+        "pattern": "each other",
+        "target": "https://ejje.weblio.jp/content/each+other"
+    },
+    {
+        "pattern": "lay aside",
+        "target": "https://ejje.weblio.jp/content/lay+aside"
+    },
+    {
+        "pattern": "be in danger",
+        "target": "https://ejje.weblio.jp/content/be+in+danger"
+    },
+    {
+        "pattern": "give off",
+        "target": "https://ejje.weblio.jp/content/give+off"
+    },
+    {
+        "pattern": "be essential to",
+        "target": "https://ejje.weblio.jp/content/be+essential+to"
+    },
+    {
+        "pattern": "be essential for",
+        "target": "https://ejje.weblio.jp/content/be+essential+to"
+    },
+    {
+        "pattern": "take measures",
+        "target": "https://ejje.weblio.jp/content/take+measures"
+    },
+    {
+        "pattern": "take measures to do",
+        "target": "https://ejje.weblio.jp/content/take+measures"
+    },
+    {
+        "pattern": "in the future",
+        "target": "https://ejje.weblio.jp/content/in+the+future"
+    },
+    {
+        "pattern": "in addition",
+        "target": "https://ejje.weblio.jp/content/in+addition"
+    },
+    {
+        "pattern": "in addition to",
+        "target": "https://ejje.weblio.jp/content/in+addition+to"
+    },
+    {
+        "pattern": "clear {N} of {N}",
+        "target": "https://ejje.weblio.jp/content/clear+A+of+B"
+    },
+    {
+        "pattern": "make room for",
+        "target": "https://ejje.weblio.jp/content/make+room+for"
+    },
+    {
+        "pattern": "be true of",
+        "target": "https://ejje.weblio.jp/content/be+true+of"
+    },
+    {
+        "pattern": "in the process of",
+        "target": "https://ejje.weblio.jp/content/in+the+process+of"
+    },
+    {
+        "pattern": "at this rate",
+        "target": "https://ejje.weblio.jp/content/at+this+rate"
+    },
+    {
+        "pattern": "at that rate",
+        "target": "https://ejje.weblio.jp/content/at+that+rate"
+    },
+    {
+        "pattern": "owe {N} to {N}",
+        "target": "https://ejje.weblio.jp/content/owe+A+to+B"
+    },
+    {
+        "pattern": "make one's way",
+        "target": "https://ejje.weblio.jp/content/make+one%27s+way"
+    },
+    {
+        "pattern": "make one's way to",
+        "target": "https://ejje.weblio.jp/content/make+one%27s+way+to"
+    },
+    {
+        "pattern": "at the age of",
+        "target": "https://ejje.weblio.jp/content/at+the+age+of"
+    },
+    {
+        "pattern": "look for",
+        "target": "https://ejje.weblio.jp/content/look+for"
+    },
+    {
+        "pattern": "devote oneself to",
+        "target": "https://ejje.weblio.jp/content/devote+oneself+to"
+    },
+    {
+        "pattern": "be engaged in",
+        "target": "https://ejje.weblio.jp/content/be+engaged+in"
+    },
+    {
+        "pattern": "see that",
+        "target": "https://ejje.weblio.jp/content/see+that"
+    },
+    {
+        "pattern": "see to it that",
+        "target": "https://ejje.weblio.jp/content/see+to+it+that"
+    },
+    {
+        "pattern": "set up",
+        "target": "https://ejje.weblio.jp/content/set+up"
+    },
+    {
+        "pattern": "as a result",
+        "target": "https://ejje.weblio.jp/content/as+a+result"
+    },
+    {
+        "pattern": "prove to be",
+        "target": "https://ejje.weblio.jp/content/prove+to+be"
+    },
+    {
+        "pattern": "bring out",
+        "target": "https://ejje.weblio.jp/content/bring+out"
+    },
+    {
+        "pattern": "point of view",
+        "target": "https://ejje.weblio.jp/content/point+of+view"
+    },
+    {
+        "pattern": "break away",
+        "target": "https://ejje.weblio.jp/content/break+away"
+    },
+    {
+        "pattern": "break away from",
+        "target": "https://ejje.weblio.jp/content/break+away+from"
+    },
+    {
+        "pattern": "for oneself",
+        "target": "https://ejje.weblio.jp/content/for+oneself"
+    },
+    {
+        "pattern": "take the lead",
+        "target": "https://ejje.weblio.jp/content/take+the+lead"
+    },
+    {
+        "pattern": "take the lead in {VVG}",
+        "target": "https://ejje.weblio.jp/content/take+the+lead+in"
+    },
+    {
+        "pattern": "take a lead",
+        "target": "https://ejje.weblio.jp/content/take+the+lead"
+    },
+    {
+        "pattern": "take a lead in {VVG}",
+        "target": "https://ejje.weblio.jp/content/take+the+lead+in"
+    },
+    {
+        "pattern": "look out",
+        "target": "https://ejje.weblio.jp/content/look+out"
+    },
+    {
+        "pattern": "look out for",
+        "target": "https://ejje.weblio.jp/content/look+out+for"
+    },
+    {
+        "pattern": "in time",
+        "target": "https://ejje.weblio.jp/content/in+time"
+    },
+    {
+        "pattern": "in time for",
+        "target": "https://ejje.weblio.jp/content/in+time+for"
+    },
+    {
+        "pattern": "run over",
+        "target": "https://ejje.weblio.jp/content/run+over"
+    },
+    {
+        "pattern": "that is",
+        "target": "https://ejje.weblio.jp/content/that+is"
+    },
+    {
+        "pattern": "that is to say",
+        "target": "https://ejje.weblio.jp/content/that+is+to+say"
+    },
+    {
+        "pattern": "by means of",
+        "target": "https://ejje.weblio.jp/content/by+means+of"
+    },
+    {
+        "pattern": "catch sight of",
+        "target": "https://ejje.weblio.jp/content/catch+sight+of"
+    },
+    {
+        "pattern": "make a noise",
+        "target": "https://ejje.weblio.jp/content/make+a+noise"
+    },
+    {
+        "pattern": "make noises",
+        "target": "https://ejje.weblio.jp/content/make+noises"
+    },
+    {
+        "pattern": "in other words",
+        "target": "https://ejje.weblio.jp/content/in+other+words"
+    },
+    {
+        "pattern": "take note of",
+        "target": "https://ejje.weblio.jp/content/take+notes+of"
+    },
+    {
+        "pattern": "for the time being",
+        "target": "https://ejje.weblio.jp/content/for+the+time+being"
+    },
+    {
+        "pattern": "take advantage of",
+        "target": "https://ejje.weblio.jp/content/take+advantage+of"
+    },
+    {
+        "pattern": "be dependent on",
+        "target": "https://ejje.weblio.jp/content/be+dependent+on"
+    },
+    {
+        "pattern": "make up for",
+        "target": "https://ejje.weblio.jp/content/make+up+for"
+    },
+    {
+        "pattern": "by oneself",
+        "target": "https://ejje.weblio.jp/content/by+oneself"
+    },
+    {
+        "pattern": "pay attention",
+        "target": "https://ejje.weblio.jp/content/pay+attention"
+    },
+    {
+        "pattern": "pay attention to",
+        "target": "https://ejje.weblio.jp/content/pay+attention"
+    },
+    {
+        "pattern": "apply for ",
+        "target": "https://ejje.weblio.jp/content/pay+attention+to"
+    },
+    {
+        "pattern": "make a living",
+        "target": "https://ejje.weblio.jp/content/make+a+living"
+    },
+    {
+        "pattern": "make one's living",
+        "target": "https://ejje.weblio.jp/content/make+one%27s+living"
+    },
+    {
+        "pattern": "see the sights of",
+        "target": "https://ejje.weblio.jp/content/see+the+sights+of"
+    },
+    {
+        "pattern": "at the same time",
+        "target": "https://ejje.weblio.jp/content/at+the+same+time"
+    },
+    {
+        "pattern": "pay a visit to",
+        "target": "https://ejje.weblio.jp/content/pay+a+visit+to"
+    },
+    {
+        "pattern": "after all",
+        "target": "https://ejje.weblio.jp/content/after+all"
+    },
+    {
+        "pattern": "be equal to",
+        "target": "https://ejje.weblio.jp/content/be+equal+to"
+    },
+    {
+        "pattern": "carry out",
+        "target": "https://ejje.weblio.jp/content/carry+out"
+    },
+    {
+        "pattern": "in case of",
+        "target": "https://ejje.weblio.jp/content/in+case+of"
+    },
+    {
+        "pattern": "depend on",
+        "target": "https://ejje.weblio.jp/content/depend+on"
+    },
+    {
+        "pattern": "think little of",
+        "target": "https://ejje.weblio.jp/content/think+little+of"
+    },
+    {
+        "pattern": "pride oneself on",
+        "target": "https://ejje.weblio.jp/content/pride+oneself+on"
+    },
+    {
+        "pattern": "as a matter of fact",
+        "target": "https://ejje.weblio.jp/content/as+a+matter+of+fact"
+    },
+    {
+        "pattern": "be gifted with",
+        "target": "https://ejje.weblio.jp/content/be+gifted+with"
+    },
+    {
+        "pattern": "suspect {N} of {N}",
+        "target": "https://ejje.weblio.jp/content/suspect"
+    },
+    {
+        "pattern": "not by any means",
+        "target": "https://ejje.weblio.jp/content/not+by+any+means"
+    },
+    {
+        "pattern": "admit to",
+        "target": "https://ejje.weblio.jp/content/admit+to"
+    },
+    {
+        "pattern": "nothing more than",
+        "target": "https://ejje.weblio.jp/content/nothing+more+than"
+    },
+    {
+        "pattern": "think twice",
+        "target": "https://ejje.weblio.jp/content/think+twice"
+    },
+    {
+        "pattern": "in fact",
+        "target": "https://ejje.weblio.jp/content/in+fact"
+    },
+    {
+        "pattern": "fall short of",
+        "target": "https://ejje.weblio.jp/content/fall+short+of"
+    },
+    {
+        "pattern": "with respect to",
+        "target": "https://ejje.weblio.jp/content/with+respect+to"
+    },
+    {
+        "pattern": "be acquainted with",
+        "target": "https://ejje.weblio.jp/content/be+acquainted+with"
+    },
+    {
+        "pattern": "for the most part",
+        "target": "https://ejje.weblio.jp/content/for+the+most+part"
+    },
+    {
+        "pattern": "of one's own accord",
+        "target": "https://ejje.weblio.jp/content/of+one%27s+own+accord"
+    },
+    {
+        "pattern": "by choice",
+        "target": "https://ejje.weblio.jp/content/by+choice"
+    },
+    {
+        "pattern": "for choice",
+        "target": "https://ejje.weblio.jp/content/for+choice"
+    },
+    {
+        "pattern": "tend to",
+        "target": "https://ejje.weblio.jp/content/tend+to"
+    },
+    {
+        "pattern": "be different from",
+        "target": "https://ejje.weblio.jp/content/be+different+from"
+    },
+    {
+        "pattern": "on the whole",
+        "target": "https://ejje.weblio.jp/content/on+the+whole"
+    },
+    {
+        "pattern": "be representative of",
+        "target": "https://ejje.weblio.jp/content/be+representative+of"
+    },
+    {
+        "pattern": "in common",
+        "target": "https://ejje.weblio.jp/content/in+common"
+    },
+    {
+        "pattern": "in common with",
+        "target": "https://ejje.weblio.jp/content/in+common+with"
+    },
+    {
+        "pattern": "close to",
+        "target": "https://ejje.weblio.jp/content/close+to"
+    },
+    {
+        "pattern": "play a role",
+        "target": "https://ejje.weblio.jp/content/play+a+role"
+    },
+    {
+        "pattern": "play a role of",
+        "target": "https://ejje.weblio.jp/content/play+a+role"
+    }
+]
